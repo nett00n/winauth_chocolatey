@@ -7,7 +7,7 @@
     <authors>Contributors to WinAuth Project</authors>
     <owners>nett00n</owners>
     <licenseUrl>https://github.com/winauth/winauth/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://winauth.github.io</projectUrl>
+    <projectUrl>https://winauth.github.io/winauth/</projectUrl>
     <iconUrl>https://cdn.statically.io/img/avatars.githubusercontent.com/u/12179488</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>WinAuth is a portable, open-source Authenticator for Windows</description>
