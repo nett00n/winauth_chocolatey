@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WinAuth</id>
+    <version>3.6.2</version>
+    <title>WinAuth (Install)</title>
+    <authors>Contributors to WinAuth Project</authors>
+    <owners>nett00n</owners>
+    <licenseUrl>https://github.com/winauth/winauth/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://winauth.github.io</projectUrl>
+    <iconUrl>https://cdn.statically.io/img/avatars.githubusercontent.com/u/12179488</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WinAuth is a portable, open-source Authenticator for Windows</description>
+    <summary>
+      WinAuth is a portable, open-source Authenticator for Windows that provides counter or time-based RFC 6238 authenticators and common implementations, such as the Google Authenticator. WinAuth can be used with many Bitcoin trading websites as well as games, supporting Battle.net (World of Warcraft, Hearthstone, Heroes of the Storm, Diablo), Guild Wars 2, Glyph (Rift and ArcheAge), WildStar, RuneScape, SWTOR and Steam.
+    </summary>
+    <releaseNotes>https://github.com/winauth/winauth/releases</releaseNotes>
+    <copyright>Contributors to WinAuth Project</copyright>
+    <tags>Winauth OTP RFC-4226</tags>
+    <projectSourceUrl>https://github.com/winauth/winauth</projectSourceUrl>
+    <packageSourceUrl>https://github.com/nett00n/WinAuth_chocolatey</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/winauth/winauth/issues</bugTrackerUrl>
+    <dependencies>
+      <dependency id="dotnet4.5" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\*.ps1" target="tools"/>
+  </files>
+</package>

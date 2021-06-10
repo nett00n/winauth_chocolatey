@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*.log
+*.nupkg
+Lib/
+Scripts/
+pyvenv.cfg
+*.exe
+*.zip
